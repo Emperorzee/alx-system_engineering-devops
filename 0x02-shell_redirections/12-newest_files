@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltur | tail
+ls -lt | head
